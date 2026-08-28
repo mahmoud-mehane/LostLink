@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lostlink-2810f",
+          "appId": "1:586614266550:android:c2db02a03d45a83ef6a417",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lostlink-2810f",
+          "configurations": {
+            "android": "1:586614266550:android:c2db02a03d45a83ef6a417",
+            "ios": "1:586614266550:ios:ba688478b2555281f6a417"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

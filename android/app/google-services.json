@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586614266550",
+    "project_id": "lostlink-2810f",
+    "storage_bucket": "lostlink-2810f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586614266550:android:c2db02a03d45a83ef6a417",
+        "android_client_info": {
+          "package_name": "com.example.lostlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbk_5B4Voo_RlB4-KNX_mZyTq1mSKYSyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
